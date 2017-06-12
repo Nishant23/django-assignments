@@ -1,0 +1,10 @@
+.noborder {
+    border: 0;
+}
+.nothing {
+    border: 0;
+    outline: none;
+    position: absolute;
+    right: -50px;
+    top: 50px;
+}
