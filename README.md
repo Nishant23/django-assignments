@@ -1,1 +1,3 @@
-django-assignments
+Simple Django Assignments:
+
+Pricebaba
